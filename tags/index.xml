@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Xiaolu Liu</title>
-    <link>xliu.ca/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Xiaolu Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Xiaolu Liu</copyright>
     <lastBuildDate>Sat, 31 Aug 2019 15:43:48 +0800</lastBuildDate>
     
-	<atom:link href="xliu.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>English</title>
-      <link>xliu.ca/tags/english/</link>
+      <link>http://localhost:1313/tags/english/</link>
       <pubDate>Sat, 31 Aug 2019 15:43:48 +0800</pubDate>
       
-      <guid>xliu.ca/tags/english/</guid>
+      <guid>http://localhost:1313/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>preview</title>
-      <link>xliu.ca/tags/preview/</link>
+      <link>http://localhost:1313/tags/preview/</link>
       <pubDate>Sat, 31 Aug 2019 15:43:48 +0800</pubDate>
       
-      <guid>xliu.ca/tags/preview/</guid>
+      <guid>http://localhost:1313/tags/preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-2</title>
-      <link>xliu.ca/tags/tag-2/</link>
+      <link>http://localhost:1313/tags/tag-2/</link>
       <pubDate>Sat, 31 Aug 2019 15:43:48 +0800</pubDate>
       
-      <guid>xliu.ca/tags/tag-2/</guid>
+      <guid>http://localhost:1313/tags/tag-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-3</title>
-      <link>xliu.ca/tags/tag-3/</link>
+      <link>http://localhost:1313/tags/tag-3/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>xliu.ca/tags/tag-3/</guid>
+      <guid>http://localhost:1313/tags/tag-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme preview</title>
-      <link>xliu.ca/tags/theme-preview/</link>
+      <link>http://localhost:1313/tags/theme-preview/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>xliu.ca/tags/theme-preview/</guid>
+      <guid>http://localhost:1313/tags/theme-preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-4</title>
-      <link>xliu.ca/tags/tag-4/</link>
+      <link>http://localhost:1313/tags/tag-4/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>xliu.ca/tags/tag-4/</guid>
+      <guid>http://localhost:1313/tags/tag-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日本語</title>
-      <link>xliu.ca/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <link>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>xliu.ca/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <guid>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-1</title>
-      <link>xliu.ca/tags/tag-1/</link>
+      <link>http://localhost:1313/tags/tag-1/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>xliu.ca/tags/tag-1/</guid>
+      <guid>http://localhost:1313/tags/tag-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>xliu.ca/tags/%E4%B8%AD%E6%96%87/</link>
+      <link>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>xliu.ca/tags/%E4%B8%AD%E6%96%87/</guid>
+      <guid>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>xliu.ca/tags/shortcodes/</link>
+      <link>http://localhost:1313/tags/shortcodes/</link>
       <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
       
-      <guid>xliu.ca/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>xliu.ca/tags/syntax-highlighting/</link>
+      <link>http://localhost:1313/tags/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>xliu.ca/tags/syntax-highlighting/</guid>
+      <guid>http://localhost:1313/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-5</title>
-      <link>xliu.ca/tags/tag-5/</link>
+      <link>http://localhost:1313/tags/tag-5/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>xliu.ca/tags/tag-5/</guid>
+      <guid>http://localhost:1313/tags/tag-5/</guid>
       <description></description>
     </item>
     

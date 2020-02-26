@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: xliu.ca/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
