@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: xliu.ca/sitemap.xml

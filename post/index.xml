@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Xiaolu Liu</title>
+    <link>xliu.ca/post/</link>
+    <description>Recent content in Posts on Xiaolu Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Xiaolu Liu</copyright>
+    <lastBuildDate>Sat, 31 Aug 2019 15:43:48 +0800</lastBuildDate>
+    
+	<atom:link href="xliu.ca/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>xliu.ca/post/helloworld/</link>
+      <pubDate>Sat, 31 Aug 2019 15:43:48 +0800</pubDate>
+      
+      <guid>xliu.ca/post/helloworld/</guid>
+      <description>Hello world 1  std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; std::endl;   </description>
+    </item>
+    
+  </channel>
+</rss>
