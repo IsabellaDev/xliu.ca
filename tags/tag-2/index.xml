@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag-2 on Xiaolu Liu</title>
-    <link>xliu.ca/tags/tag-2/</link>
+    <link>http://localhost:1313/tags/tag-2/</link>
     <description>Recent content in tag-2 on Xiaolu Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Xiaolu Liu</copyright>
     <lastBuildDate>Sat, 31 Aug 2019 15:43:48 +0800</lastBuildDate>
     
-	<atom:link href="xliu.ca/tags/tag-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/tag-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World!</title>
-      <link>xliu.ca/post/helloworld/</link>
+      <link>http://localhost:1313/post/helloworld/</link>
       <pubDate>Sat, 31 Aug 2019 15:43:48 +0800</pubDate>
       
-      <guid>xliu.ca/post/helloworld/</guid>
+      <guid>http://localhost:1313/post/helloworld/</guid>
       <description>Hello world 1  std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; std::endl;   </description>
     </item>
     
     <item>
       <title>[English] test</title>
-      <link>xliu.ca/backup/english-preview/</link>
+      <link>http://localhost:1313/backup/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>xliu.ca/backup/english-preview/</guid>
+      <guid>http://localhost:1313/backup/english-preview/</guid>
       <description>Introduction 1  std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; std::endl;   </description>
     </item>
     
