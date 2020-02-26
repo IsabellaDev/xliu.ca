@@ -18,7 +18,8 @@
       <pubDate>Sat, 31 Aug 2019 15:43:48 +0800</pubDate>
       
       <guid>http://localhost:1313/post/helloworld/</guid>
-      <description>Hello world 1  std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; std::endl;   </description>
+      <description> This website is hosted by github pages, and generate by the powerful Hugo with the even theme!
+ Hello world 1  std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; std::endl;   </description>
     </item>
     
   </channel>
